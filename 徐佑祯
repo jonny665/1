@@ -1,0 +1,17 @@
+#include <iostream>
+void skill(void);
+int main()
+{
+	;int n;
+		;n = 23;
+	printf("%d",n);
+	skill();
+
+		return 0;
+}
+void skill(void)
+{
+	printf("\nI love China!");
+
+
+}
